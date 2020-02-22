@@ -36,7 +36,7 @@ module.exports = {
       resolve: "@narative/gatsby-theme-novela",
       options: {
         contentPosts: "content/posts",
-        contentAuthors: "content/authors",
+        contentAuthors: "content/authors/authors",
         basePath: "/",
         authorsPage: true,
         sources: {
